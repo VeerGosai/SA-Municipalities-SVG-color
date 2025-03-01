@@ -32,3 +32,4 @@ for province_id, color in province_colors.items():
 # Save updated SVG
 tree.write(updated_svg_file_path)
 print(f"Updated SVG saved to: {updated_svg_file_path}")
+
